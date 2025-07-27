@@ -1,4 +1,4 @@
-namespace SUQEAA.Models
+namespace SQ.Models
 {
     public class ErrorViewModel
     {
