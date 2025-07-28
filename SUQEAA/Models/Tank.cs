@@ -1,8 +1,7 @@
-﻿// في WebApplication3.Models/Tank.cs
-using System.Collections.Generic;
+﻿ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication3.Models // تأكد من مساحة الاسم الصحيحة
+namespace WebApplication3.Models  
 {
     public class Tank
     {
@@ -22,9 +21,9 @@ namespace WebApplication3.Models // تأكد من مساحة الاسم الصح
         public int? DistrictId { get; set; }
         public District District { get; set; }
 
-        // خاصية المفتاح الخارجي والسائق للعلاقة واحد-إلى-واحد
-        public int DriverId { get; set; } // السائق المسؤول عن هذا الخزان
-        public Driver Driver { get; set; } // خاصية الملاحة
+         
+        public int DriverId { get; set; }  
+        public Driver Driver { get; set; }  
 
         public ICollection<Request> Requests { get; set; }
     }

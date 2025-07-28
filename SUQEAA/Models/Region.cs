@@ -12,6 +12,6 @@ namespace WebApplication3.Models
         public string Name { get; set; }
 
         public ICollection<District> Districts { get; set; }
-        public ICollection<Customer> Customers { get; set; } // ← أضف هذا
+        public ICollection<Customer> Customers { get; set; } 
     }
 }

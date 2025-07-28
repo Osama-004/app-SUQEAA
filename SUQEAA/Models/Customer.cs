@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication3.Models // تأكد من أن مساحة الاسم هذه مطابقة لمشروعك
+namespace WebApplication3.Models  
 {
     public class Customer
     {
         public int Id { get; set; }
-        public string Email { get; set; } // تأكد من وجود هذا لتسهيل البحث بالبريد الإلكتروني
+        public string Email { get; set; }  
 
         [Required]
         public string Name { get; set; }
@@ -20,9 +20,8 @@ namespace WebApplication3.Models // تأكد من أن مساحة الاسم ه�
         public int DistrictId { get; set; }
         public District District { get; set; }
 
-        // <<<<<<<<<<< الخصائص الجديدة لربط العميل بـ SimpleUser
-        public int SimpleUserId { get; set; } // مفتاح خارجي لربط Customer بـ SimpleUser
-        public SimpleUser SimpleUser { get; set; } // خاصية الملاحة
+         public int SimpleUserId { get; set; }  
+        public SimpleUser SimpleUser { get; set; }  
 
         public ICollection<Request> Requests { get; set; }
     }

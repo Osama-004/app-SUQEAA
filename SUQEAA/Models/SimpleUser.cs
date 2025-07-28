@@ -13,8 +13,7 @@ public class SimpleUser
     [Required]
     public string Role { get; set; }
 
-    // خصائص مساعدة
-    public bool IsAdmin => Role == "Admin";
+     public bool IsAdmin => Role == "Admin";
     public bool IsDistributor => Role == "Distributor";
     public bool IsCustomer => Role == "Customer";
 }
