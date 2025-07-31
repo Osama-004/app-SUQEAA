@@ -1,1 +1,65 @@
 ﻿
+@{
+    ViewData["Title"] = "تسجيل الدخول";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-5">
+            <div class="card shadow-sm p-4">
+                <div class="card-header text-center bg-white border-0">
+                    <h2 class="mb-0 text-primary">تسجيل الدخول</h2>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Login" method="post">
+                        <div class="form-group mb-3">
+                            <label for="email" class="control-label">البريد الإلكتروني</label>
+                            <input name="email" id="email" class="form-control" type="email" required />
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label for="password" class="control-label">كلمة المرور</label>
+                            <input name="password" id="password" type="password" class="form-control" required />
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label for="selectedRole" class="control-label">نوع الحساب</label>
+                            <select name="selectedRole" id="selectedRole" class="form-control" required>
+                                <option value=""> اختر </option>
+                                <option value="Admin">مدير</option>
+                                <option value="Customer">زبون</option>
+                                <option value="Distributor">موزع</option>
+                            </select>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary btn-lg">دخول</button>
+                            <a asp-action="Register" class="btn btn-outline-secondary btn-sm mt-2">ليس لديك حساب؟ سجل الآن</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (ViewBag.Error != null)
+{
+    <div class="container mt-3">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-5">
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    @ViewBag.Error
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+}

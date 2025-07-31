@@ -1,229 +1,225 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\",
+  "WorkspaceRootPath": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\tankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\tankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\requestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\requestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\distributorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\distributorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\distributorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\distributorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\tanks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\tanks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\tanks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\tanks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\tanks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\requests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\requests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\requests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\requests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\regions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\regions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\regions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\drivers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\drivers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\drivers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\drivers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\drivers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\districts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\districts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\districts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\districts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\districts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\distributors\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\distributors\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\customers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\admins\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\admins\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\tankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\tankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\requestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\requestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\distributorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\distributorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\distributorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\distributorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\tanks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\tanks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\tanks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\tanks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\tanks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\tanks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\requests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\requests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\requests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\requests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\requests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\regions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\regions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\regions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\regions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\drivers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\drivers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\drivers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\drivers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\drivers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\drivers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\districts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\districts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\districts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\districts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\districts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\districts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\distributors\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\distributors\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\customers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\views\\admins\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\views\\admins\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\models\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\models\\distributordashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\models\\distributordashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\models\\distributordashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\karem\\desktop\\\u0645\u0634\u0631\u0648\u0639\\app-suqeaa\\suqeaa\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -234,63 +230,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 19,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TanksController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\TanksController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\TanksController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\TanksController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\TanksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:24:14.179Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RequestsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\RequestsController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\RequestsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\RequestsController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\RequestsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:23:55.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegionsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\RegionsController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\RegionsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\RegionsController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:23:38.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:23:21.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ErrorController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\ErrorController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\ErrorController.cs",
               "RelativeToolTip": "SUQEAA\\Controllers\\ErrorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,11 +306,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DriversController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\DriversController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DriversController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\DriversController.cs",
               "RelativeToolTip": "SUQEAA\\Controllers\\DriversController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -310,28 +318,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAHMAAADgzczMzMwuwAgAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\RequestsController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\RequestsController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\RequestsController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\RequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:20:32.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-07-31T16:23:55.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SUQEAA\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SUQEAA\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T15:38:43.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SUQEAA\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SUQEAA\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T15:38:08.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:23:21.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TanksController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\TanksController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\TanksController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\TanksController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\TanksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:24:14.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:23:38.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DistrictsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistrictsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
               "RelativeToolTip": "SUQEAA\\Controllers\\DistrictsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,11 +405,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DistributorsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
               "RelativeToolTip": "SUQEAA\\Controllers\\DistributorsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,11 +417,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DistributorController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
               "RelativeToolTip": "SUQEAA\\Controllers\\DistributorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,11 +429,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "SUQEAA\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -375,11 +441,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AdminsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\AdminsController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\AdminsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Controllers\\AdminsController.cs",
               "RelativeToolTip": "SUQEAA\\Controllers\\AdminsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -387,11 +453,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Index.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Tanks\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Index.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Tanks\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -399,11 +465,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Edit.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Tanks\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Edit.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Tanks\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -411,11 +477,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Tanks\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Details.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Tanks\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -423,11 +489,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Tanks\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Delete.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Tanks\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -435,11 +501,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\appsettings.json",
               "RelativeDocumentMoniker": "SUQEAA\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\appsettings.json",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\appsettings.json",
               "RelativeToolTip": "SUQEAA\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -447,11 +513,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Tanks\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Tanks\\Create.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Tanks\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -459,11 +525,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Index.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Requests\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Index.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Requests\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -471,11 +537,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Edit.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Requests\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Edit.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Requests\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -483,11 +549,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Requests\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Details.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Requests\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -495,11 +561,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Requests\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Delete.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Requests\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -507,11 +573,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Requests\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Requests\\Create.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Requests\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -519,11 +585,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Index.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Regions\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Index.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Regions\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -531,11 +597,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Edit.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Regions\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Edit.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Regions\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -543,11 +609,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Regions\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Details.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Regions\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -555,11 +621,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Regions\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Delete.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Regions\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -567,11 +633,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Regions\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Create.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Regions\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -579,11 +645,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Index.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Index.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Drivers\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -591,11 +657,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Edit.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Edit.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Drivers\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -603,11 +669,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Details.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Drivers\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -615,11 +681,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Delete.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Drivers\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -627,11 +693,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Create.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Drivers\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -639,11 +705,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Index.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Index.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Districts\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -651,11 +717,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Edit.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Edit.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Districts\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -663,11 +729,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Details.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Districts\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -675,11 +741,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Delete.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Districts\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -687,11 +753,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Create.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Districts\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -699,11 +765,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Distributors\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Distributors\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Distributors\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Distributors\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Distributors\\Dashboard.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Distributors\\Dashboard.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -711,11 +777,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Index.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Customers\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -723,11 +789,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Edit.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Edit.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Customers\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -735,11 +801,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Details.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Customers\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -747,11 +813,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Delete.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Customers\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -759,11 +825,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Dashboard.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Customers\\Dashboard.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -771,11 +837,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Create.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Customers\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -783,11 +849,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Admins\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Admins\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Admins\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Admins\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Views\\Admins\\Dashboard.cshtml",
               "RelativeToolTip": "SUQEAA\\Views\\Admins\\Dashboard.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -795,35 +861,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "SUQEAA\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "SUQEAA\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T15:38:43.615Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 47,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "SUQEAA\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "SUQEAA\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T15:38:08.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
               "Title": "Request.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Request.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\Request.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\Request.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\Request.cs",
               "RelativeToolTip": "SUQEAA\\Models\\Request.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -831,11 +873,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "Region.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Region.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\Region.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\Region.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Region.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\Region.cs",
               "RelativeToolTip": "SUQEAA\\Models\\Region.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -843,11 +885,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "SUQEAA\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -855,11 +897,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "Driver.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Driver.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\Driver.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\Driver.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\Driver.cs",
               "RelativeToolTip": "SUQEAA\\Models\\Driver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -867,11 +909,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "District.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\District.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\District.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\District.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\District.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\District.cs",
               "RelativeToolTip": "SUQEAA\\Models\\District.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -879,11 +921,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "DistributorDashboardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\DistributorDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\DistributorDashboardViewModel.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\DistributorDashboardViewModel.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\DistributorDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\DistributorDashboardViewModel.cs",
               "RelativeToolTip": "SUQEAA\\Models\\DistributorDashboardViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -891,11 +933,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\DashboardViewModel.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\DashboardViewModel.cs",
               "RelativeToolTip": "SUQEAA\\Models\\DashboardViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -903,15 +945,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\KAREM\\Desktop\\\u0645\u0634\u0631\u0648\u0639\\app-SUQEAA\\SUQEAA\\Models\\Customer.cs",
               "RelativeToolTip": "SUQEAA\\Models\\Customer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T23:21:53.074Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
