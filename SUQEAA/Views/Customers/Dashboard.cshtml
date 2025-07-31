@@ -1,1 +1,96 @@
-﻿
+﻿@model List<WebApplication3.Models.Request>
+@using WebApplication3.Models
+
+@{
+    ViewData["Title"] = "طلباتي";
+}
+
+<h1 class="text-center mb-4">طلباتي السابقة والحالية</h1>
+
+<div class="mb-3 text-end">
+    <a asp-controller="Requests" asp-action="Create" class="btn btn-primary">
+        <i class="fas fa-plus-circle"></i> تقديم طلب مياه جديد
+    </a>
+</div>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["ErrorMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered table-hover shadow-sm">
+        <thead class="table-dark">
+            <tr>
+                <th>الكمية (لتر)</th>
+                <th>الخزان</th>
+                <th>تاريخ الطلب</th>
+                <th>الحالة</th>
+                <th>تاريخ التوصيل المتوقع/الفعلي</th>
+                <th>السائق</th>
+                <th>إجراءات</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var req in Model)
+            {
+                <tr>
+                    <td>@req.Quantity</td>
+                    <td>@(req.Tank != null ? req.Tank.Name : "غير محدد")</td>
+                    <td>@req.RequestDate.ToShortDateString()</td>
+                    <td>
+                        @{
+                            string statusText = req.Status switch
+                            {
+                                RequestStatus.Pending => "قيد الانتظار",
+                                RequestStatus.InDelivery => "قيد التوصيل",
+                                RequestStatus.Delivered => "تم التوصيل",
+                                RequestStatus.Cancelled => "ملغى",
+                                _ => "غير معروف"
+                            };
+                            string statusBadgeClass = req.Status switch
+                            {
+                                RequestStatus.Pending => "bg-warning text-dark",
+                                RequestStatus.InDelivery => "bg-info text-white",
+                                RequestStatus.Delivered => "bg-success text-white",
+                                RequestStatus.Cancelled => "bg-danger text-white",
+                                _ => "bg-secondary text-white"
+                            };
+                        }
+                        <span class="badge @statusBadgeClass">@statusText</span>
+                    </td>
+                    <td>@(req.DeliveryDate?.ToShortDateString() ?? "لم يتم بعد")</td>
+                    <td>@(req.Driver != null ? req.Driver.Name : "لم يتم التعيين")</td>
+                    <td>
+                        @if (req.Status == RequestStatus.Pending)
+                        {
+                            <a asp-controller="Requests" asp-action="Cancel" asp-route-id="@req.Id" class="btn btn-danger btn-sm" onclick="return confirm('هل أنت متأكد أنك تريد إلغاء هذا الطلب؟');">إلغاء</a>
+                        }
+                        <a asp-controller="Requests" asp-action="Details" asp-route-id="@req.Id" class="btn btn-primary btn-sm">تفاصيل</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info" role="alert">
+        لا توجد لديك أي طلبات سابقة أو حالية. يمكنك <a asp-controller="Requests" asp-action="Create">تقديم طلب جديد الآن</a>.
+    </div>
+}
+
+@section Scripts {
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+}

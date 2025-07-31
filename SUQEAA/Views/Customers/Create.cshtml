@@ -1,1 +1,82 @@
-﻿
+﻿@{
+    ViewData["Title"] = "إضافة زبون جديد";
+}
+
+<h1>إضافة زبون جديد</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label for="email" class="control-label">البريد الإلكتروني</label>
+                <input name="email" class="form-control" type="email" required />
+                <span class="text-danger" data-valmsg-for="email"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label for="password" class="control-label">كلمة المرور</label>
+                <input name="password" type="password" class="form-control" required />
+                <span class="text-danger" data-valmsg-for="password"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label for="RegionId" class="control-label">المنطقة</label>
+                <select id="RegionId" name="RegionId" class="form-control" asp-items="ViewBag.RegionId" required>
+                    <option value="">-- اختر منطقة --</option>
+                </select>
+                <span class="text-danger" data-valmsg-for="RegionId"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label for="DistrictId" class="control-label">المنطقة الفرعية</label>
+                <select id="DistrictId" name="DistrictId" class="form-control" required>
+                    <option value=""> اختر منطقة فرعية </option>
+                </select>
+                <span class="text-danger" data-valmsg-for="DistrictId"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="إنشاء" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            $('#RegionId').change(function () {
+                var regionId = $(this).val();
+                if (regionId) {
+                    $.ajax({
+                        url: '@Url.Action("GetDistrictsByRegion", "Home")',
+                        type: 'GET',
+                        data: { regionId: regionId },
+                        success: function (data) {
+                            $('#DistrictId').empty().append('<option value=""> اختر منطقة فرعية </option>');
+                            $.each(data, function (i, district) {
+                                $('#DistrictId').append($('<option>', {
+                                    value: district.id,
+                                    text: district.name
+                                }));
+                            });
+                        },
+                        error: function () {
+                            console.log("Error loading districts.");
+                        }
+                    });
+                } else {
+                    $('#DistrictId').empty().append('<option value=""> اختر منطقة فرعية </option>');
+                }
+            });
+            if ($('#RegionId').val()) {
+                $('#RegionId').trigger('change');
+            }
+        });
+    </script>
+}

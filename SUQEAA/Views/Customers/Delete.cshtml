@@ -1,1 +1,41 @@
-﻿
+﻿@model WebApplication3.Models.Customer
+
+@{
+    ViewData["Title"] = "حذف الزبون";
+}
+
+<h1>حذف الزبون</h1>
+
+<h3>هل أنت متأكد أنك تريد حذف هذا الزبون؟</h3>
+<div>
+    <h4>الزبون</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">الاسم</dt>
+        <dd class="col-sm-9">@Model.Name</dd>
+
+        <dt class="col-sm-3">البريد الإلكتروني</dt>
+        <dd class="col-sm-9">@Model.Email</dd>
+
+        <dt class="col-sm-3">العنوان</dt>
+        <dd class="col-sm-9">@Model.Address</dd>
+
+        <dt class="col-sm-3">رقم الهاتف</dt>
+        <dd class="col-sm-9">@Model.PhoneNumber</dd>
+
+        <dt class="col-sm-3">المنطقة</dt>
+        <dd class="col-sm-9">@(Model.Region != null ? Model.Region.Name : "غير محدد")</dd>
+
+        <dt class="col-sm-3">المنطقة الفرعية</dt>
+        <dd class="col-sm-9">@(Model.District != null ? Model.District.Name : "غير محدد")</dd>
+
+        <dt class="col-sm-3">حساب المستخدم</dt>
+        <dd class="col-sm-9">@(Model.SimpleUser != null ? Model.SimpleUser.Email : "غير محدد")</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="حذف" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+    </form>
+</div>

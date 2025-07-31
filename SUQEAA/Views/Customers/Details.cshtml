@@ -1,1 +1,45 @@
-﻿
+﻿@model WebApplication3.Models.Customer
+@using WebApplication3.Models
+
+@{
+    ViewData["Title"] = "تفاصيل الزبون";
+}
+
+<h1>تفاصيل الزبون</h1>
+
+<div>
+    <h4>الزبون</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">الاسم</dt>
+        <dd class="col-sm-9">@Model.Name</dd>
+
+        <dt class="col-sm-3">البريد الإلكتروني</dt>
+        <dd class="col-sm-9">@Model.Email</dd>
+
+        <dt class="col-sm-3">العنوان</dt>
+        <dd class="col-sm-9">@Model.Address</dd>
+
+        <dt class="col-sm-3">رقم الهاتف</dt>
+        <dd class="col-sm-9">@Model.PhoneNumber</dd>
+
+        <dt class="col-sm-3">المنطقة</dt>
+        <dd class="col-sm-9">@(Model.Region != null ? Model.Region.Name : "غير محدد")</dd>
+
+        <dt class="col-sm-3">المنطقة الفرعية</dt>
+        <dd class="col-sm-9">@(Model.District != null ? Model.District.Name : "غير محدد")</dd>
+
+        <dt class="col-sm-3">حساب المستخدم المرتبط</dt>
+        <dd class="col-sm-9">@(Model.SimpleUser != null ? Model.SimpleUser.Email : "غير محدد")</dd>
+    </dl>
+</div>
+<div class="mt-3">
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-info">تعديل</a>
+    <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
