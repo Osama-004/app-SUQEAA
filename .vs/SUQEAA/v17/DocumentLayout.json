@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\distributorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\distributorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -162,7 +166,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Account\\Register.cshtml",
@@ -175,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RegionsController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\RegionsController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\RegionsController.cs",
@@ -189,40 +193,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DistributorsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\DistributorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Title": "DistrictsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistrictsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\DistrictsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T23:41:08.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DistributorController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\DistributorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T23:40:53.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T23:40:35.507Z",
+              "WhenOpened": "2025-07-31T23:48:55.653Z",
               "EditorCaption": ""
             },
             {
@@ -231,7 +209,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "DistributorsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\DistributorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:41:08.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistributorController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\DistributorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:40:53.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:40:35.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Dashboard.cshtml",
@@ -243,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Create.cshtml",
@@ -251,12 +266,11 @@
               "RelativeToolTip": "SUQEAA\\Views\\Customers\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T15:39:35.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T15:39:35.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Distributors\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Distributors\\Dashboard.cshtml",
@@ -264,12 +278,11 @@
               "RelativeToolTip": "SUQEAA\\Views\\Distributors\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T15:41:22.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T15:41:22.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Delete.cshtml",
@@ -281,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Details.cshtml",
@@ -293,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Edit.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Edit.cshtml",
@@ -305,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Customers\\Index.cshtml",
@@ -317,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\HomeController.cs",
@@ -329,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Admins\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Admins\\Dashboard.cshtml",
@@ -341,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\AccountController.cs",
@@ -353,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Regions\\Details.cshtml",
@@ -365,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AdminsController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AdminsController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\AdminsController.cs",
@@ -377,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Regions\\Delete.cshtml",
@@ -389,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Regions\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Regions\\Create.cshtml",
@@ -401,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Index.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Index.cshtml",
@@ -413,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Edit.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Edit.cshtml",
@@ -425,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Details.cshtml",
@@ -437,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Delete.cshtml",
@@ -449,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Drivers\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Drivers\\Create.cshtml",
@@ -461,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Index.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Index.cshtml",
@@ -473,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Edit.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Edit.cshtml",
@@ -485,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Details.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Details.cshtml",
@@ -497,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Delete.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Delete.cshtml",
@@ -509,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Views\\Districts\\Create.cshtml",
               "RelativeDocumentMoniker": "SUQEAA\\Views\\Districts\\Create.cshtml",
@@ -521,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Request.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Request.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\Request.cs",
@@ -533,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Region.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Region.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\Region.cs",
@@ -545,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\ErrorViewModel.cs",
@@ -557,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Driver.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Driver.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\Driver.cs",
@@ -569,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "District.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\District.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\District.cs",
@@ -581,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "DistributorDashboardViewModel.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\DistributorDashboardViewModel.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\DistributorDashboardViewModel.cs",
@@ -593,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\DashboardViewModel.cs",
@@ -605,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Models\\Customer.cs",
