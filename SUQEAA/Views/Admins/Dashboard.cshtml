@@ -1,1 +1,60 @@
-﻿
+﻿@model WebApplication3.Models.DashboardViewModel
+@using WebApplication3.Models
+
+@{
+    ViewData["Title"] = "لوحة تحكم المدير";
+}
+
+<h1 class="text-center mb-4">لوحة تحكم المدير</h1>
+
+<div class="row">
+    <div class="col-md-6 mb-4">
+        <div class="card shadow-sm h-100">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0">إحصائيات عامة</h4>
+            </div>
+            <div class="card-body">
+                <p><strong>إجمالي الطلبات:</strong> <span class="badge bg-info">@Model.TotalOrders</span></p>
+                <p><strong>الطلبات المكتملة:</strong> <span class="badge bg-success">@Model.CompletedOrders</span></p>
+                <p><strong>الطلبات قيد المعالجة (انتظار/توصيل):</strong> <span class="badge bg-warning">@Model.PendingOrders</span></p>
+                <p><strong>إجمالي سعة الخزانات المتاحة:</strong> <span class="badge bg-secondary">@Model.TotalAvailableTankCapacity لتر</span></p>
+                <p><strong>أكثر المناطق طلبًا:</strong> <span class="badge bg-dark">@Model.MostRequestedAreaName (@Model.MostRequestedAreaCount طلب)</span></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6 mb-4">
+        <div class="card shadow-sm h-100">
+            <div class="card-header bg-success text-white">
+                <h4 class="mb-0">إدارة النظام</h4>
+            </div>
+            <div class="card-body">
+                <div class="list-group">
+                    <a asp-controller="Customers" asp-action="Index" class="list-group-item list-group-item-action">
+                        <i class="fas fa-users"></i> إدارة الزبائن
+                    </a>
+                    <a asp-controller="Regions" asp-action="Index" class="list-group-item list-group-item-action">
+                        <i class="fas fa-globe"></i> إدارة المناطق
+                    </a>
+                    <a asp-controller="Districts" asp-action="Index" class="list-group-item list-group-item-action">
+                        <i class="fas fa-map-marker-alt"></i> إدارة المناطق الفرعية (الأحياء)
+                    </a>
+                    <a asp-controller="Tanks" asp-action="Index" class="list-group-item list-group-item-action">
+                        <i class="fas fa-water"></i> إدارة الخزانات
+                    </a>
+                    <a asp-controller="Requests" asp-action="Index" class="list-group-item list-group-item-action">
+                        <i class="fas fa-clipboard-list"></i> إدارة الطلبيات
+                    </a>
+                    <a asp-controller="Drivers" asp-action="Index" class="list-group-item list-group-item-action">
+                        <i class="fas fa-truck"></i> إدارة السائقين
+                    </a>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+}
