@@ -1,32 +1,39 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using SUQEAA.Models;
+using Microsoft.EntityFrameworkCore; 
+using WebApplication3.Data; 
+using System.Linq; 
+using System.Threading.Tasks;
 
-namespace SUQEAA.Controllers
+namespace WebApplication3.Controllers
 {
-    public class HomeController : Controller
-    {
-        private readonly ILogger<HomeController> _logger;
+	public class HomeController : Controller
+	{
+		private readonly ApplicationDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+		public HomeController(ApplicationDbContext context)
+		{
+			_context = context;
+		}
 
-        public IActionResult Index()
-        {
-            return View();
-        }
+		public IActionResult Index()
+		{
+			return View();
+		}
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+		public IActionResult Privacy()
+		{
+			return View();
+		}
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
-    }
+		// œ«·… ·Ã·» «·„‰«ÿﬁ «·›—⁄Ì… »‰«¡ ⁄·Ï „⁄—› «·„‰ÿﬁ…
+		[HttpGet]
+		public async Task<JsonResult> GetDistrictsByRegion(int regionId)
+		{
+			var districts = await _context.District
+										.Where(d => d.RegionId == regionId)
+										.Select(d => new { id = d.Id, name = d.Name }) // «—Ã⁄ ﬂ«∆‰«  „ÃÂÊ·…  Õ ÊÌ ⁄·Ï id Ê name
+										.ToListAsync();
+			return Json(districts);
+		}
+	}
 }

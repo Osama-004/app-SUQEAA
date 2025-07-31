@@ -9,183 +9,185 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SUQEAA
 build_property.RootNamespace = SUQEAA
-build_property.ProjectDir = C:\Users\KAREM\Desktop\مشروع\app-SUQEAA\SUQEAA\
+build_property.ProjectDir = C:\Users\HP\Desktop\app-SUQEAA\SUQEAA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\KAREM\Desktop\مشروع\app-SUQEAA\SUQEAA
+build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\app-SUQEAA\SUQEAA
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Account/Login.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Account/Register.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/AdminDashboard.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/AdminDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Admins/Dashboard.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Admins/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Customers/Create.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Customers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Customers/Dashboard.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Customers/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Customers/Delete.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Customers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Customers/Details.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Customers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Customers/Edit.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Customers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Customers/Index.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Distributors/Dashboard.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Distributors/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnV0b3JzXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Districts/Create.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Districts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Districts/Delete.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Districts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Districts/Details.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Districts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Districts/Edit.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Districts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Districts/Index.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Districts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Drivers/Create.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Drivers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Drivers/Delete.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Drivers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Drivers/Details.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Drivers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Drivers/Edit.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Drivers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Drivers/Index.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Drivers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Home/Index.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Home/Privacy.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Regions/Create.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Regions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Regions/Delete.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Regions/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Regions/Details.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Regions/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Regions/Edit.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Regions/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Regions/Index.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Regions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Requests/Create.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Requests/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Requests/Delete.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Requests/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Requests/Details.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Requests/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Requests/Edit.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Requests/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Requests/Index.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Requests/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Shared/Error.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Tanks/Create.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Tanks/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFua3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Tanks/Delete.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Tanks/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFua3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Tanks/Details.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Tanks/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFua3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Tanks/Edit.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Tanks/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFua3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Tanks/Index.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Tanks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFua3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/_ViewImports.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KAREM/Desktop/مشروع/app-SUQEAA/SUQEAA/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/Desktop/app-SUQEAA/SUQEAA/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-aphgrcexc4
