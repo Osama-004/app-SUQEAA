@@ -4,7 +4,7 @@ using WebApplication3.Data;
 using System.Linq; 
 using System.Threading.Tasks;
 
-namespace WebApplication3.Controllers
+namespace SUQEAA.Controllers
 {
 	public class HomeController : Controller
 	{
