@@ -1,1 +1,147 @@
-﻿
+﻿@model WebApplication3.Models.DistributorDashboardViewModel
+@using WebApplication3.Models
+
+@{
+    ViewData["Title"] = "لوحة تحكم الموزع";
+}
+
+<h1 class="text-center mb-4">مرحباً بك في لوحة تحكم الموزع</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["ErrorMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-4 mb-4">
+        <div class="card shadow-sm h-100">
+            <div class="card-body">
+                <h5 class="card-title">إجمالي الطلبات المخصصة لي</h5>
+                <p class="card-text fs-2 text-primary">@Model.TotalRequestsCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-4">
+        <div class="card shadow-sm h-100">
+            <div class="card-body">
+                <h5 class="card-title">طلبات قيد التوصيل</h5>
+                <p class="card-text fs-2 text-warning">@Model.PendingRequestsCount</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-4">
+        <div class="card shadow-sm h-100">
+            <div class="card-body">
+                <h5 class="card-title">طلبات تم توصيلها</h5>
+                <p class="card-text fs-2 text-success">@Model.CompletedRequests.Count</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mt-4">
+    <h3>الطلبات قيد التوصيل</h3>
+    @if (Model.PendingRequests != null && Model.PendingRequests.Any())
+    {
+        <table class="table table-bordered table-hover shadow-sm">
+            <thead class="table-dark">
+                <tr>
+                    <th>معرف الطلب</th>
+                    <th>الكمية (لتر)</th>
+                    <th>العميل</th>
+                    <th>الخزان</th>
+                    <th>تاريخ الطلب</th>
+                    <th>الحالة</th>
+                    <th>إجراءات</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var req in Model.PendingRequests.Where(r => r.Status == RequestStatus.InDelivery))
+                {
+                    <tr>
+                        <td>@req.Id</td>
+                        <td>@req.Quantity</td>
+                        <td>@(req.Customer != null ? req.Customer.Name : "غير معروف")</td>
+                        <td>@(req.Tank != null ? req.Tank.Name : "غير محدد")</td>
+                        <td>@req.RequestDate.ToShortDateString()</td>
+                        <td>
+                            @{
+                                string statusText = req.Status switch
+                                {
+                                    RequestStatus.InDelivery => "قيد التوصيل",
+                                    _ => "غير معروف" // لن تظهر حالات أخرى هنا
+                                };
+                                string statusBadgeClass = "bg-info text-white";
+                            }
+                            <span class="badge @statusBadgeClass">@statusText</span>
+                        </td>
+                        <td>
+                            <a asp-controller="Requests" asp-action="Details" asp-route-id="@req.Id" class="btn btn-primary btn-sm">تفاصيل</a>
+                            <a asp-controller="Requests" asp-action="Complete" asp-route-id="@req.Id" class="btn btn-success btn-sm" onclick="return confirm('هل أنت متأكد أنك تريد تأكيد توصيل هذا الطلب؟');">تم التوصيل</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-info">لا توجد طلبات قيد التوصيل حاليًا.</div>
+    }
+</div>
+
+<div class="mt-5">
+    <h3>الطلبات التي تم توصيلها</h3>
+    @if (Model.CompletedRequests != null && Model.CompletedRequests.Any())
+    {
+        <table class="table table-bordered table-hover shadow-sm">
+            <thead class="table-dark">
+                <tr>
+                    <th>معرف الطلب</th>
+                    <th>الكمية (لتر)</th>
+                    <th>العميل</th>
+                    <th>الخزان</th>
+                    <th>تاريخ الطلب</th>
+                    <th>تاريخ التوصيل</th>
+                    <th>الحالة</th>
+                    <th>إجراءات</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var req in Model.CompletedRequests.Where(r => r.Status == RequestStatus.Delivered))
+                {
+                    <tr>
+                        <td>@req.Id</td>
+                        <td>@req.Quantity</td>
+                        <td>@(req.Customer != null ? req.Customer.Name : "غير معروف")</td>
+                        <td>@(req.Tank != null ? req.Tank.Name : "غير محدد")</td>
+                        <td>@req.RequestDate.ToShortDateString()</td>
+                        <td>@(req.DeliveryDate?.ToShortDateString() ?? "غير محدد")</td>
+                        <td><span class="badge bg-success">تم التوصيل</span></td>
+                        <td>
+                            <a asp-controller="Requests" asp-action="Details" asp-route-id="@req.Id" class="btn btn-primary btn-sm">تفاصيل</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-secondary">لا توجد طلبات تم توصيلها بعد.</div>
+    }
+</div>
+
+@section Scripts {
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+}
