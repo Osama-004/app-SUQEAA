@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|solutionrelative:suqeaa\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E35E33A3-DBF9-4A57-A7D5-553736E93DF6}|SUQEAA\\SUQEAA.csproj|c:\\users\\hp\\desktop\\app-suqeaa\\suqeaa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -234,11 +234,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TanksController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\TanksController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\TanksController.cs",
@@ -246,12 +246,11 @@
               "RelativeToolTip": "SUQEAA\\Controllers\\TanksController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:24:14.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T16:24:14.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RequestsController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\RequestsController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\RequestsController.cs",
@@ -259,12 +258,11 @@
               "RelativeToolTip": "SUQEAA\\Controllers\\RequestsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:23:55.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T16:23:55.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RegionsController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\RegionsController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\RegionsController.cs",
@@ -272,12 +270,11 @@
               "RelativeToolTip": "SUQEAA\\Controllers\\RegionsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:23:38.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T16:23:38.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\HomeController.cs",
@@ -290,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ErrorController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\ErrorController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\ErrorController.cs",
@@ -298,12 +295,11 @@
               "RelativeToolTip": "SUQEAA\\Controllers\\ErrorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:23:08.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T16:23:08.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DriversController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DriversController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DriversController.cs",
@@ -311,83 +307,17 @@
               "RelativeToolTip": "SUQEAA\\Controllers\\DriversController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:22:52.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T16:22:52.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DistrictsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistrictsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\DistrictsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:22:35.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DistributorsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\DistributorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:22:14.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DistributorController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\DistributorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:21:46.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:21:27.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AdminsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AdminsController.cs",
-              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\AdminsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AdminsController.cs",
-              "RelativeToolTip": "SUQEAA\\Controllers\\AdminsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T16:20:54.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "SUQEAA\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AccountController.cs",
               "RelativeToolTip": "SUQEAA\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAADgzczMzMwuwAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T16:20:32.337Z",
               "EditorCaption": ""
@@ -395,6 +325,66 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DistrictsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistrictsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistrictsController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\DistrictsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:22:35.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DistributorsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorsController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\DistributorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:22:14.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DistributorController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\DistributorController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\DistributorController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\DistributorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:21:46.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:21:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "SUQEAA\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\app-SUQEAA\\SUQEAA\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "SUQEAA\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:20:54.517Z"
             },
             {
               "$type": "Document",
@@ -454,8 +444,7 @@
               "RelativeToolTip": "SUQEAA\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-28T23:22:01.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T23:22:01.56Z"
             },
             {
               "$type": "Document",
