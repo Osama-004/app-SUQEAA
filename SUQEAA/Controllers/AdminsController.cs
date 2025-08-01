@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SUQEAA.Data; 
-using SUQEAA.Models;
+using WebApplication3.Data; 
+using WebApplication3.Models;
 using System.Linq;
 using Microsoft.EntityFrameworkCore; 
 using System.Threading.Tasks;

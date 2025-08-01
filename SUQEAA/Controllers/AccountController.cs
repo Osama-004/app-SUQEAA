@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SUQEAA.Data;
-using SUQEAA.Models;
+using WebApplication3.Data;
+using WebApplication3.Models;
 using System.Linq;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication.Cookies;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore; 
 using Microsoft.AspNetCore.Mvc.Rendering; 
 
-namespace SUQEAA.Controllers
+namespace WebApplication3.Controllers
 {
 	public class AccountController : Controller
 	{
