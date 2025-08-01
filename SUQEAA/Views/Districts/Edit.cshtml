@@ -1,1 +1,41 @@
-﻿
+﻿@model WebApplication3.Models.District
+
+@{
+    ViewData["Title"] = "تعديل المنطقة الفرعية";
+}
+
+<h1>تعديل المنطقة الفرعية</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="RegionId" class="control-label">المنطقة الأم</label>
+                <select asp-for="RegionId" class="form-control" asp-items="ViewBag.RegionId" required>
+                    <option value=""> اختر منطقة </option>
+                </select>
+                <span asp-validation-for="RegionId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="حفظ" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

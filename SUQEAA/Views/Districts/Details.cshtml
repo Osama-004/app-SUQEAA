@@ -1,1 +1,44 @@
-﻿
+﻿@model WebApplication3.Models.District
+@using WebApplication3.Models
+
+@{
+    ViewData["Title"] = "تفاصيل المنطقة الفرعية";
+}
+
+<h1>تفاصيل المنطقة الفرعية</h1>
+
+<div>
+    <h4>المنطقة الفرعية</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">الاسم</dt>
+        <dd class="col-sm-9">@Model.Name</dd>
+
+        <dt class="col-sm-3">المنطقة الأم</dt>
+        <dd class="col-sm-9">@(Model.Region != null ? Model.Region.Name : "غير محدد")</dd>
+
+        @if (Model.Customers != null && Model.Customers.Any())
+        {
+            <dt class="col-sm-3">الزبائن المرتبطون</dt>
+            <dd class="col-sm-9">
+                <ul>
+                    @foreach (var customer in Model.Customers)
+                    {
+                        <li>@customer.Name (@customer.Email)</li>
+                    }
+                </ul>
+            </dd>
+        }
+    </dl>
+
+    <div class="mt-3">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-info">تعديل</a>
+        <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
