@@ -1,1 +1,40 @@
-﻿
+﻿@model WebApplication3.Models.Driver
+@using WebApplication3.Models
+
+@{
+    ViewData["Title"] = "تفاصيل السائق";
+}
+
+<h1>تفاصيل السائق</h1>
+
+<div>
+    <h4>السائق</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">الاسم</dt>
+        <dd class="col-sm-9">@Model.Name</dd>
+
+        <dt class="col-sm-3">رقم الهاتف</dt>
+        <dd class="col-sm-9">@Model.PhoneNumber</dd>
+
+        <dt class="col-sm-3">رقم الرخصة</dt>
+        <dd class="col-sm-9">@Model.LicenceNumber</dd>
+
+        <dt class="col-sm-3">الخزان المسؤول عنه</dt>
+        <dd class="col-sm-9">@(Model.Tank != null ? Model.Tank.Name : "لا يوجد")</dd>
+
+        <dt class="col-sm-3">عدد الطلبات التي قام بتوصيلها</dt>
+        <dd class="col-sm-9">@(Model.Requests?.Count(r => r.Status == RequestStatus.Delivered) ?? 0)</dd>
+    </dl>
+
+    <div class="mt-3">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-info">تعديل</a>
+        <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
