@@ -1,1 +1,57 @@
-﻿
+﻿@model WebApplication3.Models.Request
+@using WebApplication3.Models
+@using Microsoft.AspNetCore.Mvc.Rendering // هذا ضروري لـ SelectListItem
+
+@{
+    ViewData["Title"] = "تقديم طلب مياه جديد";
+}
+
+<h1 class="text-center mb-4">تقديم طلب مياه جديد</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm p-4">
+            <form asp-action="Create" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                @* حقل العميل مخفي، يتم تعيينه من المتحكم *@
+                <input type="hidden" asp-for="CustomerId" value="@ViewBag.CustomerId" />
+
+                <div class="form-group mb-3">
+                    <label asp-for="TankId" class="control-label">الخزان المتاح في منطقتي (مرتب حسب السعر)</label>
+                    <select asp-for="TankId" class="form-control" required>
+                        <option value="">-- اختر خزان --</option>
+                        @if (ViewBag.Tanks is SelectList tanksSelectList)
+                        {
+                            foreach (var item in tanksSelectList)
+                            {
+                            
+                                <option value="@item.Value">@item.Text</option>
+                            }
+                        }
+                    </select>
+                    <span asp-validation-for="TankId" class="text-danger"></span>
+                    <small class="form-text text-muted">اختر الخزان المناسب من منطقتك.</small>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Quantity" class="control-label">الكمية المطلوبة (باللتر)</label>
+                    <input asp-for="Quantity" type="number" min="1" class="form-control" required />
+                    <span asp-validation-for="Quantity" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-success"><i class="fas fa-paper-plane"></i> إرسال الطلب</button>
+                    <a asp-action="MyRequests" class="btn btn-secondary">العودة إلى طلباتي</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+}

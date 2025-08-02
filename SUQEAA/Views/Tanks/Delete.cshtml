@@ -1,1 +1,44 @@
-﻿
+﻿@model WebApplication3.Models.Tank
+
+@{
+    ViewData["Title"] = "حذف الخزان";
+}
+
+<h1>حذف الخزان</h1>
+
+<h3>هل أنت متأكد أنك تريد حذف هذا الخزان؟</h3>
+<div>
+    <h4>الخزان</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">الاسم</dt>
+        <dd class="col-sm-9">@Model.Name</dd>
+
+        <dt class="col-sm-3">السعة الكلية (لتر)</dt>
+        <dd class="col-sm-9">@Model.Capacity</dd>
+
+        <dt class="col-sm-3">السعة المتاحة (لتر)</dt>
+        <dd class="col-sm-9">@Model.CurrentCapacity</dd>
+
+        <dt class="col-sm-3">الموقع</dt>
+        <dd class="col-sm-9">@Model.Location</dd>
+
+        <dt class="col-sm-3">السعر/لتر</dt>
+        <dd class="col-sm-9">@Model.PricePerLiter</dd>
+
+        <dt class="col-sm-3">المنطقة</dt>
+        <dd class="col-sm-9">@(Model.Region != null ? Model.Region.Name : "غير محدد")</dd>
+
+        <dt class="col-sm-3">المنطقة الفرعية</dt>
+        <dd class="col-sm-9">@(Model.District != null ? Model.District.Name : "غير محدد")</dd>
+
+        <dt class="col-sm-3">السائق المسؤول</dt>
+        <dd class="col-sm-9">@(Model.Driver != null ? Model.Driver.Name : "غير محدد")</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="حذف" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+    </form>
+</div>

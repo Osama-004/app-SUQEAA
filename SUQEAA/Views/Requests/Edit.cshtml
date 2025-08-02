@@ -1,1 +1,76 @@
-﻿
+﻿@model WebApplication3.Models.Request
+@using WebApplication3.Models
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+@{
+    ViewData["Title"] = "تعديل الطلب";
+}
+
+<h1>تعديل الطلب</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group mb-3">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" type="number" required />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="RequestDate" class="control-label"></label>
+                <input asp-for="RequestDate" class="form-control" type="date" required />
+                <span asp-validation-for="RequestDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="DeliveryDate" class="control-label"></label>
+                <input asp-for="DeliveryDate" class="form-control" type="date" />
+                <span asp-validation-for="DeliveryDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Status" class="control-label"></label>
+                <select asp-for="Status" class="form-control">
+                    <option value="@((int)RequestStatus.Pending)">قيد الانتظار</option>
+                    <option value="@((int)RequestStatus.InDelivery)">قيد التوصيل</option>
+                    <option value="@((int)RequestStatus.Delivered)">تم التوصيل</option>
+                    <option value="@((int)RequestStatus.Cancelled)">ملغى</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="CustomerId" class="control-label"></label>
+                <select asp-for="CustomerId" class="form-control" asp-items="ViewBag.CustomerId" required></select>
+                <span asp-validation-for="CustomerId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="TankId" class="control-label"></label>
+                <select asp-for="TankId" class="form-control" asp-items="ViewBag.TankId" required></select>
+                <span asp-validation-for="TankId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="DriverId" class="control-label"></label>
+                <select asp-for="DriverId" class="form-control" asp-items="ViewBag.DriverId" required></select>
+                <span asp-validation-for="DriverId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="حفظ" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

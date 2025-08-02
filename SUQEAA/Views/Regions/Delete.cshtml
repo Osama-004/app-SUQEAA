@@ -1,1 +1,23 @@
-﻿
+﻿@model WebApplication3.Models.Region
+
+@{
+    ViewData["Title"] = "حذف المنطقة";
+}
+
+<h1>حذف المنطقة</h1>
+
+<h3>هل أنت متأكد أنك تريد حذف هذه المنطقة؟</h3>
+<div>
+    <h4>المنطقة</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">الاسم</dt>
+        <dd class="col-sm-9">@Model.Name</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="حذف" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+    </form>
+</div>

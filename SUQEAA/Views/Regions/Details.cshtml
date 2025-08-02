@@ -1,1 +1,44 @@
-﻿
+﻿@model WebApplication3.Models.Region
+
+@{
+    ViewData["Title"] = "تفاصيل المنطقة";
+}
+
+<h1>تفاصيل المنطقة</h1>
+
+<div>
+    <h4>المنطقة</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">الاسم</dt>
+        <dd class="col-sm-9">@Model.Name</dd>
+    </dl>
+
+    @* <<<<<<<<<<< قسم لعرض المناطق الفرعية المرتبطة (إذا تم تضمينها في المتحكم) *@
+    @if (Model.Districts != null && Model.Districts.Any())
+    {
+        <h5>المناطق الفرعية التابعة:</h5>
+        <ul>
+            @foreach (var district in Model.Districts)
+            {
+                <li>@district.Name</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>لا توجد مناطق فرعية تابعة لهذه المنطقة.</p>
+    }
+    @* >>>>>>>>>>>>> نهاية قسم المناطق الفرعية *@
+
+    <div class="mt-3">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-info">تعديل</a>
+        <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

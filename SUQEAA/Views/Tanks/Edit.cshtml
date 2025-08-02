@@ -1,1 +1,113 @@
-﻿
+﻿@model WebApplication3.Models.Tank
+
+@{
+    ViewData["Title"] = "تعديل الخزان";
+}
+
+<h1>تعديل الخزان</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group mb-3">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" required />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Capacity" class="control-label"></label>
+                <input asp-for="Capacity" class="form-control" type="number" step="0.01" required />
+                <span asp-validation-for="Capacity" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="CurrentCapacity" class="control-label"></label>
+                <input asp-for="CurrentCapacity" class="form-control" type="number" step="0.01" required />
+                <span asp-validation-for="CurrentCapacity" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Location" class="control-label"></label>
+                <input asp-for="Location" class="form-control" />
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="PricePerLiter" class="control-label"></label>
+                <input asp-for="PricePerLiter" class="form-control" type="number" step="0.01" required />
+                <span asp-validation-for="PricePerLiter" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="RegionId" class="control-label">المنطقة</label>
+                <select id="RegionId" asp-for="RegionId" class="form-control" asp-items="ViewBag.RegionId" required>
+                    <option value="">-- اختر منطقة --</option>
+                </select>
+                <span asp-validation-for="RegionId" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="DistrictId" class="control-label">المنطقة الفرعية (اختياري)</label>
+                <select id="DistrictId" asp-for="DistrictId" class="form-control" asp-items="ViewBag.DistrictId">
+                    <option value="">-- اختر منطقة فرعية --</option>
+                </select>
+                <span asp-validation-for="DistrictId" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="DriverId" class="control-label">السائق المسؤول</label>
+                <select asp-for="DriverId" class="form-control" asp-items="ViewBag.DriverId" required>
+                    <option value="">-- اختر سائق --</option>
+                </select>
+                <span asp-validation-for="DriverId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="حفظ" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            // تحميل المناطق الفرعية بناءً على المنطقة المختارة
+            $('#RegionId').change(function () {
+                var regionId = $(this).val();
+                if (regionId) {
+                    $.ajax({
+                        url: '@Url.Action("GetDistrictsByRegion", "Home")',
+                        type: 'GET',
+                        data: { regionId: regionId },
+                        success: function (data) {
+                            $('#DistrictId').empty().append('<option value="">-- اختر منطقة فرعية --</option>');
+                            $.each(data, function (i, district) {
+                                $('#DistrictId').append($('<option>', {
+                                    value: district.id,
+                                    text: district.name
+                                }));
+                            });
+                            // إعادة تحديد المنطقة الفرعية الحالية بعد التحميل
+                            var currentDistrictId = '@Model.DistrictId';
+                            if (currentDistrictId && $('#DistrictId option[value="' + currentDistrictId + '"]').length) {
+                                $('#DistrictId').val(currentDistrictId);
+                            }
+                        },
+                        error: function () {
+                            console.log("Error loading districts.");
+                        }
+                    });
+                } else {
+                    $('#DistrictId').empty().append('<option value="">-- اختر منطقة فرعية --</option>');
+                }
+            });
+            // تشغيل حدث التغيير عند تحميل الصفحة لملء قائمة المناطق الفرعية الأولية
+            if ($('#RegionId').val()) {
+                $('#RegionId').trigger('change');
+            }
+        });
+    </script>
+}

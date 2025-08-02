@@ -1,1 +1,57 @@
-﻿
+﻿@model WebApplication3.Models.Request
+@using WebApplication3.Models
+
+@{
+    ViewData["Title"] = "حذف الطلب";
+}
+
+<h1>حذف الطلب</h1>
+
+<h3>هل أنت متأكد أنك تريد حذف هذا الطلب؟</h3>
+<div>
+    <h4>الطلب</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">معرف الطلب</dt>
+        <dd class="col-sm-9">@Model.Id</dd>
+
+        <dt class="col-sm-3">الكمية (لتر)</dt>
+        <dd class="col-sm-9">@Model.Quantity</dd>
+
+        <dt class="col-sm-3">العميل</dt>
+        <dd class="col-sm-9">@(Model.Customer != null ? Model.Customer.Name : "غير معروف")</dd>
+
+        <dt class="col-sm-3">الخزان</dt>
+        <dd class="col-sm-9">@(Model.Tank != null ? Model.Tank.Name : "غير محدد")</dd>
+
+        <dt class="col-sm-3">السائق</dt>
+        <dd class="col-sm-9">@(Model.Driver != null ? Model.Driver.Name : "لم يتم التعيين")</dd>
+
+        <dt class="col-sm-3">تاريخ الطلب</dt>
+        <dd class="col-sm-9">@Model.RequestDate.ToShortDateString()</dd>
+
+        <dt class="col-sm-3">تاريخ التوصيل</dt>
+        <dd class="col-sm-9">@(Model.DeliveryDate?.ToShortDateString() ?? "لم يتم بعد")</dd>
+
+        <dt class="col-sm-3">الحالة</dt>
+        <dd class="col-sm-9">
+            @{
+                string statusText = Model.Status switch
+                {
+                    RequestStatus.Pending => "قيد الانتظار",
+                    RequestStatus.InDelivery => "قيد التوصيل",
+                    RequestStatus.Delivered => "تم التوصيل",
+                    RequestStatus.Cancelled => "ملغى",
+                    _ => "غير معروف"
+                };
+            }
+            @statusText
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="حذف" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">العودة إلى القائمة</a>
+    </form>
+</div>

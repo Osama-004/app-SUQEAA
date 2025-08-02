@@ -1,1 +1,67 @@
-﻿
+﻿@* Views/Requests/Details.cshtml *@
+@model WebApplication3.Models.Request
+@using WebApplication3.Models
+
+@{
+    ViewData["Title"] = "تفاصيل الطلب";
+}
+
+<h1>تفاصيل الطلب #@Model.Id</h1>
+
+<div>
+    <h4>معلومات الطلب</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">الكمية (لتر)</dt>
+        <dd class="col-sm-9">@Model.Quantity</dd>
+
+        <dt class="col-sm-3">تاريخ الطلب</dt>
+        <dd class="col-sm-9">@Model.RequestDate.ToShortDateString()</dd>
+
+        <dt class="col-sm-3">تاريخ التوصيل</dt>
+        <dd class="col-sm-9">@(Model.DeliveryDate?.ToShortDateString() ?? "لم يتم بعد")</dd>
+
+        <dt class="col-sm-3">الحالة</dt>
+        <dd class="col-sm-9">
+            @{
+                string statusText = Model.Status switch
+                {
+                    RequestStatus.Pending => "قيد الانتظار",
+                    RequestStatus.InDelivery => "قيد التوصيل",
+                    RequestStatus.Delivered => "تم التوصيل",
+                    RequestStatus.Cancelled => "ملغى",
+                    _ => "غير معروف"
+                };
+            }
+            @statusText
+        </dd>
+    </dl>
+
+    <h4>معلومات الخزان</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">اسم الخزان</dt>
+        <dd class="col-sm-9">@(Model.Tank != null ? Model.Tank.Name : "غير محدد")</dd>
+        <dt class="col-sm-3">سعة الخزان</dt>
+        <dd class="col-sm-9">@(Model.Tank != null ? $"{Model.Tank.Capacity} لتر" : "غير محدد")</dd>
+        <dt class="col-sm-3">السعة الحالية للخزان</dt>
+        <dd class="col-sm-9">@(Model.Tank != null ? $"{Model.Tank.CurrentCapacity} لتر" : "غير محدد")</dd>
+        <dt class="col-sm-3">موقع الخزان</dt>
+        <dd class="col-sm-9">@(Model.Tank != null ? Model.Tank.Location : "غير محدد")</dd>
+        <dt class="col-sm-3">السعر/لتر</dt>
+        <dd class="col-sm-9">@(Model.Tank != null ? $"{Model.Tank.PricePerLiter:N2} ل.ت." : "غير محدد")</dd>
+    </dl>
+
+    <h4>معلومات السائق</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">اسم السائق</dt>
+        <dd class="col-sm-9">@(Model.Driver != null ? Model.Driver.Name : "لم يتم التعيين")</dd>
+        <dt class="col-sm-3">رقم هاتف السائق</dt>
+        <dd class="col-sm-9">@(Model.Driver != null ? Model.Driver.PhoneNumber : "غير محدد")</dd>
+    </dl>
+</div>
+<div class="mt-3">
+    <a asp-action="MyRequests" class="btn btn-secondary">العودة إلى طلباتي</a>
+
+</div>
